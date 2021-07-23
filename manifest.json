@@ -7,10 +7,11 @@
   "icons": {
     "128": "icon128.png"
   },
- 
-  "content_scripts": [{
-    "css": ["styles.css"],
-    "matches": ["https://*.atlassian.net/*"]
-  }]
- 
+  "content_scripts": [
+    {
+    "matches": ["https://*.atlassian.net/*"],
+    "js": ["script.js"],
+    "css": ["style.css"]
+    }
+  ]
 }
