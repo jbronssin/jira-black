@@ -1,13 +1,15 @@
-body {
-    background: white;
+html {
     filter: invert(86%) hue-rotate(180deg) brightness(105%) contrast(105%);
+    background: white;
+}
+body {
     background: white;
 }
 span[role="img"] {
     filter: invert(100%) hue-rotate(180deg) brightness(105%) contrast(105%);
 }
 img, svg, iframe, .emoji-common-emoji-sprite {
-	filter: invert(100%) hue-rotate(180deg) brightness(105%) contrast(105%);
+    filter: invert(100%) hue-rotate(180deg) brightness(105%) contrast(105%);
 }
 #gh {
     padding: 0 40px;
