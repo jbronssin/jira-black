@@ -12,3 +12,7 @@ Installation
 
 
 ![Screenshot](/source/screenshot.jpg)
+
+** Thanks **
+------------
+Many thanks to @lucgauer for the avatar fix :)
