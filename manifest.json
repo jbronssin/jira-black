@@ -1,9 +1,9 @@
 {
-  "manifest_version": 2,
+  "manifest_version": 3,
  
-  "name": "Jira Black",
-  "version": "0.2.1",
-  "description": "Turn your Jira Cloud to Black",
+  "name": "Jira Black - Dark Mode",
+  "version": "0.2.2",
+  "description": "Turn your Jira Cloud to Black, a nice looking Dark Theme.",
   "icons": {
     "128": "icon128.png"
   },
