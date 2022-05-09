@@ -5,10 +5,13 @@ html {
 body {
     background: white;
 }
+[aria-label*="profile"] span:empty,
+[data-testid*="profile"] span:empty,
 [data-test-id*="profile"] span:empty,
 span[role="img"],
 img, svg, iframe, .emoji-common-emoji-sprite {
     filter: invert(100%) hue-rotate(180deg) brightness(105%) contrast(105%);
+    border-color: transparent;
 }
 #gh {
     padding: 0 40px;
