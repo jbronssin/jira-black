@@ -15,4 +15,4 @@ Installation
 
 ** Thanks ** ＼（＾ ＾）／
 ------------
-Many thanks to @lucgauer for the avatar fix :)
+Many thanks to @lucgauer for the avatar fix :) and @fortunato for the Herocoders Issues iFrame fix.
