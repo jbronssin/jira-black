@@ -5,6 +5,7 @@ html {
 body {
     background: white;
 }
+#ak-side-navigation [data-navheader*="true"] span:empty,
 [aria-label*="profile"] span:empty,
 [data-testid*="profile"] span:empty,
 [data-test-id*="profile"] span:empty,
