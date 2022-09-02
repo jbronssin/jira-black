@@ -6,6 +6,7 @@ body {
     background: white;
 }
 #ak-side-navigation [data-navheader*="true"] span:empty,
+.atlaskit-portal [data-placement="bottom-end"] span:empty,
 [aria-label*="profile"] span:empty,
 [data-testid*="profile"] span:empty,
 [data-test-id*="profile"] span:empty,
