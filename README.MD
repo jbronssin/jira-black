@@ -1,6 +1,7 @@
 Jira Black
 ===========================
 For Chrome Only, small extension to transform your JIRA in a nice dark Theme
+Official Extension - https://chrome.google.com/webstore/detail/jira-black-dark-mode/kceiicckemdanfancjeiddjkedhdicgo
 
 Installation
 ------------
@@ -15,4 +16,8 @@ Installation
 
 ** Thanks ** ＼（＾ ＾）／
 ------------
-Many thanks to @lucgauer for the avatar fix :), @fortunato for the Herocoders Issues iFrame fix and @tkiethanom for the Sidebar project icon fix!
+Many thanks to the contributors :
+- @lucgauer for the avatar fix :)
+- @fortunato for the Herocoders Issues iFrame fix and
+- @tkiethanom for the Sidebar project icon fix
+- @blozano824 for the avatar inverted in the dropdown
