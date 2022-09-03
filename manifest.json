@@ -2,7 +2,7 @@
   "manifest_version": 3,
  
   "name": "Jira Black - Dark Mode",
-  "version": "0.2.6",
+  "version": "0.2.7",
   "description": "Turn your Jira Cloud to Black, a nice looking Dark Theme.",
   "icons": {
     "128": "icon128.png"
