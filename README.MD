@@ -16,12 +16,20 @@ Installation
 
 ![Screenshot](/source/screenshot.jpg)
 
+**Changelog Version**
+------------
+
+0.2.9 -> Fix video preview
+0.2.8 -> Fix PDF preview
+0.2.7 -> Fix inverted avatar in the user dropdown
+0.2.6 -> Fix inverted Avatar
+
 **Thanks** ＼（＾ ＾）／
 ------------
 
 Many thanks to the contributors :
 
 - @lucgauer for the avatar fix :)
-- @fortunato for the Herocoders Issues iFrame fix and
+- @fortunato for the Herocoders Issues iFrame fix
 - @tkiethanom for the Sidebar project icon fix
 - @blozano824 for the avatar inverted in the dropdown
