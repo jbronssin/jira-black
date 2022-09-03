@@ -19,10 +19,10 @@ Installation
 **Changelog Version**
 ------------
 
-0.2.9 -> Fix video preview
-0.2.8 -> Fix PDF preview
-0.2.7 -> Fix inverted avatar in the user dropdown
-0.2.6 -> Fix inverted Avatar
+- 0.2.9 -> Fix video preview
+- 0.2.8 -> Fix PDF preview
+- 0.2.7 -> Fix inverted avatar in the user dropdown
+- 0.2.6 -> Fix inverted Avatar
 
 **Thanks** ＼（＾ ＾）／
 ------------
