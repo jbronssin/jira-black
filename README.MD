@@ -1,6 +1,7 @@
 Jira Black
 ===========================
 For Chrome Only, small extension to transform your JIRA in a nice dark Theme
+
 Official Extension - https://chrome.google.com/webstore/detail/jira-black-dark-mode/kceiicckemdanfancjeiddjkedhdicgo
 
 Installation
