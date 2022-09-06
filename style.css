@@ -11,7 +11,7 @@ body {
 [data-testid*="profile"] span:empty,
 [data-test-id*="profile"] span:empty,
 span[role="img"],
-img, svg, iframe, .emoji-common-emoji-sprite, .pdfViewer, .media-viewer-popup, .page, .media-card-inline-player {
+img, svg, iframe, .emoji-common-emoji-sprite, .pdfViewer, .media-viewer-popup, .page, .media-card-inline-player, .tempo-app-container {
     filter: invert(100%) hue-rotate(180deg) brightness(105%) contrast(105%);
     border-color: transparent;
 }
