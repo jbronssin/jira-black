@@ -19,6 +19,7 @@ Installation
 **Changelog Version**
 ------------
 
+- 0.3   -> Taking charge of Tempo's Jira extension
 - 0.2.9 -> Fix video preview
 - 0.2.8 -> Fix PDF preview
 - 0.2.7 -> Fix inverted avatar in the user dropdown
@@ -33,3 +34,4 @@ Many thanks to the contributors :
 - @fortunato for the Herocoders Issues iFrame fix
 - @tkiethanom for the Sidebar project icon fix
 - @blozano824 for the avatar inverted in the dropdown
+- @xopez for the code cleaning and including tempo extension without a permission change
