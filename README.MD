@@ -19,6 +19,7 @@ Installation
 **Changelog Version**
 ------------
 
+- 0.3.1 -> Fix Confluence new bug on blue text
 - 0.3   -> Taking charge of Tempo's Jira extension
 - 0.2.9 -> Fix video preview
 - 0.2.8 -> Fix PDF preview

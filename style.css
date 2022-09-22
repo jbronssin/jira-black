@@ -4,17 +4,36 @@ html {
 }
 body {
   background: white;
+  color: white !important;
 }
-#ak-side-navigation [data-navheader*="true"] span:empty,
-.atlaskit-portal [data-placement="bottom-end"] span:empty,
-[aria-label*="profile"] span:empty,
-[data-testid*="profile"] span:empty,
-[data-test-id*="profile"] span:empty,
-span[role="img"],
-img,
-svg,
-iframe,
-.emoji-common-emoji-sprite,
+span[role="img"] {
+  filter: invert(100%) hue-rotate(180deg) brightness(105%) contrast(105%);
+}
+img, svg, iframe, .emoji-common-emoji-sprite {
+  filter: invert(100%) hue-rotate(180deg) brightness(105%) contrast(105%);
+}
+nav img {
+  filter: invert(100%) hue-rotate(180deg) brightness(105%) contrast(105%);
+}
+.css-ob4lje {
+  color: white !important;
+  filter: invert(100%) hue-rotate(180deg) brightness(105%) contrast(105%);
+}
+.css-1ko5j7w {
+  color: white !important;
+}
+.ak-renderer-document {
+  color: white !important;
+}
+h1 {
+  color: white !important;
+}
+.title-wrapper, .title-text {
+  color: white !important;
+}
+[data-testid="Content"] > div:first-child {
+  background: white;
+}
 .pdfViewer,
 .media-viewer-popup,
 .page,
@@ -23,13 +42,4 @@ iframe,
 .tempo-app-container {
   filter: invert(100%) hue-rotate(180deg) brightness(105%) contrast(105%);
   border-color: transparent;
-}
-#gh {
-  padding: 0 40px;
-}
-#content {
-  margin: 0;
-}
-[data-testid="Content"] > div:first-child {
-  background: white;
 }
