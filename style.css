@@ -33,3 +33,7 @@ iframe,
 [data-testid="Content"] > div:first-child {
   background: white;
 }
+[data-testid="media-viewer-image"] {
+  filter: inherit
+}
+
