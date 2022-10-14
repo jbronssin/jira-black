@@ -19,6 +19,7 @@ Installation
 **Changelog Version**
 ------------
 
+- 0.3.2 -> small fix on inverted image - Avatar in Profile page(again...
 - 0.3.1 -> small fix on inverted image (again...)
 - 0.3   -> Taking charge of Tempo's Jira extension
 - 0.2.9 -> Fix video preview
