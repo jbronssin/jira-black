@@ -19,6 +19,7 @@ Installation
 **Changelog Version**
 ------------
 
+- 0.3.1 -> small fix on inverted image (again...)
 - 0.3   -> Taking charge of Tempo's Jira extension
 - 0.2.9 -> Fix video preview
 - 0.2.8 -> Fix PDF preview
@@ -35,3 +36,4 @@ Many thanks to the contributors :
 - @tkiethanom for the Sidebar project icon fix
 - @blozano824 for the avatar inverted in the dropdown
 - @xopez for the code cleaning and including tempo extension without a permission change
+- @MarkBelgum for 
