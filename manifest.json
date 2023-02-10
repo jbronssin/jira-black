@@ -9,7 +9,13 @@
   },
   "content_scripts": [
     {
-      "matches": ["https://*.atlassian.net/*", "https://*.herocoders.com/issue/*"],
+      "matches": [
+        "https://*.atlassian.net/*", 
+        "https://*.herocoders.com/issue/*", 
+        "https://bitbucket.org/*", 
+        "https://id.atlassian.com/*", 
+        "https://admin.atlassian.com/*"
+      ],
       "exclude_matches":["https://*.atlassian.net/wiki/*"],
       "js": ["script.js"],
       "css": ["style.css"],
